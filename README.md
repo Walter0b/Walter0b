@@ -134,42 +134,40 @@ Results-driven dev, 3+ years building scalable web apps with React, Next.js, Go,
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
+    <td width="50%" valign="top">
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
+      <div align="center">
         <a href="https://github.com/Walter0b">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Walter0b&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&border_radius=15&cache_seconds=86400" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Walter0b&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide=prs,issues,contribs&border_radius=15" alt="GitHub Stats" />
         </a>
-      </p>
+      </div>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
+    <td width="50%" valign="top">
+      <h3 align="center"><strong>Streak Stats</strong></h3>
+      <div align="center">
         <a href="https://github.com/Walter0b">
-          <img align="center" src="https://streak-stats.demolab.com?user=Walter0b&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&border_radius=15&mode=weekly" alt="Streak Stats" />
+          <img src="https://streak-stats.demolab.com?user=Walter0b&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&border_radius=15&mode=weekly" alt="Streak Stats" />
         </a>
-      </p>
+      </div>
     </td>
   </tr>
 </table>
 
 
-
 ---
-
-<!--Performance Metrics-->
-<h2 align="center">Pᴇʀғᴏʀᴍᴀɴᴄᴇ Mᴇᴛʀɪᴄs</h2>
+<!-- Performance Metrics -->
+<h2 align="center">Performance Metrics</h2>
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Total%20Commits-1000+-blue?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Active%20Repos-25+-green?style=for-the-badge&logo=github&logoColor=white" alt="Active Repos"></td>
+      <td align="center"><img src="https://img.shields.io/badge/Total%20Commits-1000%2B-blue?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits"></td>
+      <td align="center"><img src="https://img.shields.io/badge/Active%20Repos-25%2B-green?style=for-the-badge&logo=github&logoColor=white" alt="Active Repos"></td>
       <td align="center"><img src="https://img.shields.io/badge/NPM%20Packages-3-red?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Packages"></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Years%20Coding-3+-purple?style=for-the-badge&logo=code&logoColor=white" alt="Years Coding"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Languages-10+-orange?style=for-the-badge&logo=programming&logoColor=white" alt="Languages"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Frameworks-15+-yellow?style=for-the-badge&logo=framework&logoColor=white" alt="Frameworks"></td>
+      <td align="center"><img src="https://img.shields.io/badge/Years%20Coding-3%2B-purple?style=for-the-badge" alt="Years Coding"></td>
+      <td align="center"><img src="https://img.shields.io/badge/Languages-10%2B-orange?style=for-the-badge" alt="Languages"></td>
+      <td align="center"><img src="https://img.shields.io/badge/Frameworks-15%2B-yellow?style=for-the-badge" alt="Frameworks"></td>
     </tr>
   </table>
 </div>
