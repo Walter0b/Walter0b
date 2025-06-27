@@ -50,7 +50,7 @@ Results-driven dev, 3+ years building scalable web apps with React, Next.js, Go,
 
 ---
 
-<h2 align="center">📦 Published NPM Packages</h2>
+<h2 align="center">Published NPM Packages</h2>
 <div align="center">
 
 | Package                                                                | Description                                   | Tech                |
@@ -94,19 +94,19 @@ Results-driven dev, 3+ years building scalable web apps with React, Next.js, Go,
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/DHIS2_logo.svg.png" width="100" height="34" alt="DHIS2">
+      <img src="./assets/DHIS2_logo.png" width="100" height="34" alt="DHIS2">
       <h4>Aggregate Data Analysis Fundamentals</h4>
       <p><em>Healthcare data management and analysis</em></p>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/DHIS2_logo.svg.png" width="100" height="34" alt="DHIS2">
+      <img src="./assets/DHIS2_logo.png" width="100" height="34" alt="DHIS2">
       <h4>Aggregate Data Capture & Validation</h4>
       <p><em>Data quality assurance and validation techniques</em></p>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="./assets/DHIS2_logo.svg.png" width="100" height="34" alt="DHIS2">
+      <img src="./assets/DHIS2_logo.png" width="100" height="34" alt="DHIS2">
       <h4>Introduction to DHIS2</h4>
       <p><em>Health information system fundamentals</em></p>
     </td>
