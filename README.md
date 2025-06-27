@@ -2,7 +2,8 @@
 
 ![Walter0b Banner](./assets/Banner.gif)
 
-_Full-Stack Developer & Digital Architect_
+<br>
+<b> Full-Stack Developer</b> 
 
 <div>
   <img align="right" width="36%" src="./assets/Computer%20with%20terminal.svg" alt="Developer at work">
