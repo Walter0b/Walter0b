@@ -39,11 +39,10 @@ Results-driven dev, 3+ years building scalable web apps with React, Next.js, Go,
 <h3 align="left">Skills</h3>
 <ul>
   <li><b>Programming Languages:</b> JavaScript (ES6+), TypeScript, Go, Python, PHP, Apex, C++</li>
-  <li><b>Frontend:</b> React.js, Next.js, Angular, Vue.js, Lightning Web Components (LWC), Tailwind CSS, Material UI</li>
+  <li><b>Frontend:</b> React.js, Next.js, Angular, Vue.js,Jest, Lightning Web Components (LWC), Tailwind CSS, Material UI</li>
   <li><b>Backend:</b> Go, Strapi, Node.js, Apex, Python, Directus</li>
   <li><b>Databases:</b> PostgreSQL, MongoDB, SQL, SOQL</li>
   <li><b>Tools & Platforms:</b> Git, Docker, Salesforce, Directus, WordPress, AWS, Bun</li>
-  <li><b>Testing:</b> Jest, Test-driven Development (TDD)</li>
   <li><b>Soft Skills:</b> Effective Communication, Team Collaboration, Mentorship, Time Management, Problem Solving, Code Reviews</li>
 </ul>
 
