@@ -17,7 +17,7 @@ Results-driven dev, 3+ years building scalable web apps with React, Next.js, Go,
 - Currently: Advanced Go & cloud
 - Mentor, team player
 - NEEMA | SaaS, dashboards
-- React, TypeScript, Go, PostgreSQL
+- Salesforce, React, TypeScript, Go, PostgreSQL, Lynx js
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Walter0b&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Walter0b" />
