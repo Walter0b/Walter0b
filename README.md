@@ -3,7 +3,7 @@
 ![Walter0b Banner](./assets/Banner.gif)
 
 <br>
-<b> Full-Stack Developer</b> 
+<b> Software Engineer </b> 
 
 <div>
   <img align="right" width="36%" src="./assets/Computer%20with%20terminal.svg" alt="Developer at work">
