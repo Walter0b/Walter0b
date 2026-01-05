@@ -10,7 +10,7 @@
 </div>
 
 <p>
-Results-driven dev, 3+ years building scalable web apps with React, Next.js, Go, and PostgreSQL.
+Results-driven dev, 4+ years building scalable web apps with React, Next.js, Go, and PostgreSQL.
 </p>
 
 - Code optimizer & workflow automator
