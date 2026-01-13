@@ -311,12 +311,22 @@ Contributed to UI design and backend features for underwater camera tracking sys
 <p align="center">
   <a href="https://github.com/Walter0b">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Walter0b&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Walter0b&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Walter0b&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-profile-trophy.vercel.app/?username=Walter0b&theme=monokai&no-bg=true&no-frame=true&row=2&column=7&margin-w=10&margin-h=10"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-trophy.vercel.app/?username=Walter0b&theme=flat&no-bg=true&no-frame=true&row=2&column=7&margin-w=10&margin-h=10"
+      />
+      <img
+        alt="GitHub Trophies"
+        src="https://github-profile-trophy.vercel.app/?username=Walter0b&theme=monokai&no-bg=true&no-frame=true&row=2&column=7&margin-w=10&margin-h=10"
+      />
     </picture>
   </a>
 </p>
+
 <br />
 
 <table width="100%">
@@ -394,7 +404,7 @@ Contributed to UI design and backend features for underwater camera tracking sys
 </tr>
 </table>
 <p align="center">
-  <a href="mailto:jakinjoram5@gmail.com?subject=Project%20Inquiry&body=Hi%20Walter,%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20I%27d%20like%20to%20discuss...">
+  <a href="mailto:jakinjoram5@gmail.com?subject=Project%20Inquiry&body=Hi%20Joram,%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20I%27d%20like%20to%20discuss...">
     <img src="https://img.shields.io/badge/Send%20Project%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
