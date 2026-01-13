@@ -1,4 +1,4 @@
-<div align="center">
+<div id="top" align="center">
 
 ![Walter0b Banner](./assets/Banner.gif)
 
@@ -11,7 +11,7 @@
   <a href="#skills">Skills</a> •
   <a href="#packages">NPM Packages</a> •
   <a href="#certifications">Certifications</a> •
-  <a href="#stats">GitHub Stats</a>
+  <a href="#stats">GitHub Stats</a> •
   <a href="#contact">Contact</a>
 </p>
 
@@ -429,9 +429,5 @@ Contributed to UI design and backend features for underwater camera tracking sys
   Last updated: January 2026 • 
   <a href="#top">Back to top ↑</a>
 </sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 </div>
