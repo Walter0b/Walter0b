@@ -18,7 +18,7 @@
 
 </div>
 
----
+
 
 <div>
   <img align="right" width="36%" src="./assets/Computer%20with%20terminal.svg" alt="Developer at work">
@@ -45,7 +45,7 @@ Results-driven dev, 4+ years building scalable web and mobile apps with React, N
     <img src="https://komarev.com/ghpvc/?username=Walter0b&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" />
   </a>
 
----
+
 
 <br>
 <br>
@@ -71,10 +71,14 @@ Results-driven dev, 4+ years building scalable web and mobile apps with React, N
 
 <br clear="left" />
 
----
+
 
 <h2 align="center">Published NPM Packages</h2>
 <div id="packages" align="center">
+
+
+<br>
+<br>
 
 | Package                                                                    | Description                                                       | Downloads                                                                  | Tech                |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------- |
@@ -84,12 +88,14 @@ Results-driven dev, 4+ years building scalable web and mobile apps with React, N
 
 </div>
 
----
+
+<br>
+<br>
 
 <div id="experience"></div>
 
 
-<h2 align="center"> Professional Experience</h2> 
+<h2 align="center">Professional Experience</h2> 
 
 
 <div align="center">
@@ -265,9 +271,12 @@ Contributed to UI design and backend features for underwater camera tracking sys
 
 </details>
 
----
+
+<br>
 
 <h2 id="Certifications" align="center">Certifications</h2>
+
+<br>
 <div align="center">
 <table width="100%">
   <tr>
@@ -304,7 +313,9 @@ Contributed to UI design and backend features for underwater camera tracking sys
 </table>
 </div>
 
----
+
+<br>
+<br>
 
 <div id="stats">
 <h2 align="center"> Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs & Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</h2>
@@ -352,7 +363,7 @@ Contributed to UI design and backend features for underwater camera tracking sys
 
 </div>
 
----
+<br>
 
 <div align="center">
   <table>
@@ -369,16 +380,16 @@ Contributed to UI design and backend features for underwater camera tracking sys
   </table>
 </div>
 
----
+<br>
+<br>
 
 
 <div align="center" id="contact"></div>
-
-
 <div align="center">
   
 
-<h2 align="center">  Why Work With Me?</h2>
+<h2 align="center">Why Work With Me?</h2>
+<br>
 <table>
 <tr>
 <td align="center" width="25%">
@@ -420,7 +431,7 @@ Contributed to UI design and backend features for underwater camera tracking sys
 </div>
 </div>
 
----
+
 
 <div align="center">
 
