@@ -107,6 +107,21 @@ Results-driven dev, 4+ years building scalable web and mobile apps with React, N
 </div>
 
 <br/>
+<details>
+<summary><b>ALAXIONE Solutions e-Santé</b> — Web Developer & Data Specialist <em>(2024 - Present)</em></summary>
+
+**Yaoundé, Cameroon • Part-time**
+
+Web development and data automation support for a digital health company.
+
+**Key Achievements**
+
+* Built and maintained responsive WordPress platforms with strong performance and accessibility standards.
+* Designed Python scraping pipelines to collect, clean, and structure web data for business and operational use.
+
+</details>
+
+
 
 <details open>
 <summary><b>AuditPal</b> — Frontend Developer <em>(Sep 2022 - Present)</em></summary>
