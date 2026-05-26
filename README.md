@@ -2,7 +2,7 @@
 
 ![Walter0b Banner](./assets/Banner.gif)
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=2F81F7&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Full-Stack+Engineer;Salesforce+%7C+Next.js+%7C+Go+%7C+Flutter" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=100&color=2F81F7&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Software+Engineer;Salesforce+%7C+Next.js+%7C+Go+%7C+Flutter" alt="Typing SVG" />
 
 
 
